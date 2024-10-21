@@ -1,5 +1,7 @@
 # Vefforritun 1, 2024: Verkefni 9, JS #3
 
+- [Vefforritun 1, 2024, fyrirlestur 10.3: Inngangur að verkefni 9 (43:39)](https://youtu.be/TjY6TTenRq8)
+
 ## Markmið
 
 - Forrita á móti DOM, _Document Object Model_.
